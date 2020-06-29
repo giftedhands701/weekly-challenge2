@@ -1,0 +1,44 @@
+
+body{
+   margin: 0;
+   padding: 10px 30px;
+    background-color: black;
+    color: #fff;
+}
+
+p{
+    font-family: helvetica;
+    font-size: 1.3rem;
+}
+
+form{
+   margin: 0 auto;
+    width: 500px;
+    display: block;
+    background-color: rgb(122, 109, 109);    
+}
+label, button{
+    display: block;
+}
+
+.form-header{    
+    text-align: center;
+    margin-right: 215px;
+}
+
+#name{
+    border: 3px solid lightblue;
+}
+
+#email{
+    border: 3px solid green;
+}
+#age{
+    border: 3px solid orange;
+}
+button{
+    padding: 5px 20px;
+}
+footer{
+    text-align: center;
+}
